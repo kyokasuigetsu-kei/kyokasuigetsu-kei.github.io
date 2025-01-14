@@ -6,3 +6,7 @@
 		background-size: 1200%;
 		animation: 4s linear infinite slide;
 	}
+@keyframes slide{
+		from { background-position: 0% 0%; }
+		to { background-position: 100% 100%; }
+	}
