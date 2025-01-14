@@ -1,0 +1,8 @@
+@charset "utf-8";
+.gaming{
+		color: transparent;
+		-webkit-background-clip: text;
+		background-image: linear-gradient(45deg, red, orange, yellow, green, aqua, blue, purple, red);
+		background-size: 1200%;
+		animation: 4s linear infinite slide;
+	}
